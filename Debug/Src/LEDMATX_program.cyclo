@@ -1,0 +1,4 @@
+../Src/LEDMATX_program.c:18:6:HLEDMATX_voidInit	1
+../Src/LEDMATX_program.c:42:6:HLEDMATX_voidDisplay	1
+../Src/LEDMATX_program.c:117:13:DisableColumns	1
+../Src/LEDMATX_program.c:129:13:SetRows	1

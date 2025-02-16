@@ -1,0 +1,7 @@
+../Src/NVIC_program.c:16:6:MNVIK_voidEnableInterrupt	3
+../Src/NVIC_program.c:28:6:MNVIK_voidDisableInterrupt	3
+../Src/NVIC_program.c:40:6:MNVIK_voidSetPendigFlag	3
+../Src/NVIC_program.c:52:6:MNVIK_voidClearPendigFlag	3
+../Src/NVIC_program.c:64:4:MNVIK_u8GetActiveFlag	3
+../Src/NVIC_program.c:78:6:MNVIK_voidPriorityBits_Init	1
+../Src/NVIC_program.c:84:6:MNVIK_voidSetPriority	3

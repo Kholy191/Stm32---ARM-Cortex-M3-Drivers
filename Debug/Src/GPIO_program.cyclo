@@ -1,0 +1,4 @@
+../Src/GPIO_program.c:16:6:GPIO_SetPinDirection	19
+../Src/GPIO_program.c:98:6:GPIO_SetPinValue	11
+../Src/GPIO_program.c:137:4:GPIO_GetPinValue	5
+../Src/GPIO_program.c:157:6:GPIO_SetPortValue	5
